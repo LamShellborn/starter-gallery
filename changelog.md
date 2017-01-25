@@ -7,3 +7,6 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 ## *Version 1.0*
 
 Release Date: Jan 25, 2017
+
+Creating controllers for gallery and about.
+Moved pages to views folder.
